@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Franciele Lira ☺️
 ####  Tenho 23 anos!
-#### Engenharia de software 👩‍🎓 
+####  Estudo : Engenharia de software 👩‍🎓 
 #### São Paulo/ SP 🏠
 
 
