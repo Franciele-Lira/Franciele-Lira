@@ -1,4 +1,4 @@
-### Bem-Vindo ao meu GitHub! ☺️
+<div style="css" aling= "Center" > <strong> Bem-Vindo ao meu GitHub! ☺️ </strong></div>
 ### meu nome é Franciele Lira! 👋
 
 
