@@ -1,7 +1,7 @@
-<div style="center" aling= "Center" > <strong> Bem-Vindo ao meu GitHub! ☺️ </strong></div>
+<div> <strong>      Bem-Vindo ao meu GitHub! ☺️      </strong></div>
 ### meu nome é Franciele Lira! 👋
-
-
+### Estudante de engenharia de Software. 🧑‍🎓
+### Atualmente tenho 24 anos.
 
 
 ![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
@@ -18,6 +18,8 @@
    <img align="center" alt ="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt ="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
 
 ### Redes Sociais:
 
