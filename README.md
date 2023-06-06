@@ -1,4 +1,4 @@
-<div> <strong>      Bem-Vindo ao meu GitHub! ☺️      </strong></div>
+<div aling="center"> <strong>Bem-Vindo ao meu GitHub! ☺️  </strong></div>
 
 
 ### meu nome é Franciele Lira! 👋 
