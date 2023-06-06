@@ -5,10 +5,14 @@
 
 ### Estudante de engenharia de Software. 🧑‍🎓
 
-### Atualmente tenho 24 anos.
+### Atualmente tenho 24 anos. <br>
 
 
 ![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
 
 
 ### Técnologias que utilizo:
@@ -25,7 +29,6 @@
    <img align="center" alt ="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
 
 ### Redes Sociais:
 
