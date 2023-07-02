@@ -1,11 +1,11 @@
 ## Bem-Vindo ao meu GitHub! ☺️ 
 
 
-### meu nome é Franciele Lira! 👋 
+###💡 meu nome é Franciele Lira! 👋 
 
-### Estudante de engenharia de Software. 🧑‍🎓
+###💡 Estudante de engenharia de Software. 🧑‍🎓
 
-###  24 anos. <br>
+###💡 24 anos. <br>
 
 
 ![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
@@ -30,8 +30,8 @@
 </div><br>
 
 
-### Redes Sociais:
+### 💡Redes Sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-lira/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lira_euu/)
+
 
