@@ -1,7 +1,8 @@
 ## Bem-Vindo ao meu GitHub! ☺️ 
 
 
-💡 ### meu nome é Franciele Lira! 👋 
+💡 
+### meu nome é Franciele Lira! 👋 
 
 💡 ### Estudante de engenharia de Software. 🧑‍🎓
 
