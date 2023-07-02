@@ -5,7 +5,7 @@
 
 ### Estudante de engenharia de Software. 🧑‍🎓
 
-### Atualmente tenho 24 anos. <br>
+###  24 anos. <br>
 
 
 ![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
