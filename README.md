@@ -1,20 +1,22 @@
-## Bem-Vindo ao meu GitHub! ☺️ 
+## Hi! I'm Franciele Lira. 
 
-### Dev iniciante. 💡
+ 💡 Dev iniciante. 
 
-### Estudante de engenharia de Software. 🧑‍🎓
+ 💡 4° semestre de Engenharia de Software. 🧑‍🎓
 
-### 24 anos. <br>
+ 💡 On the way to being fluent in English
 
+ <br>
 
-![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
+## Contact 
 
 
-### Técnologias que utilizo:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-lira/)
+
+
+
+
+## Técnologias que utilizo:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,11 +28,19 @@
   <br>
    <img align="center" alt ="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt ="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</div><br>
+</div>
 
+<br>
 
-### 💡Redes Sociais:
+## ✨ Constant Learner✨
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-lira/)
+<br>
+
+![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
+
 
 
