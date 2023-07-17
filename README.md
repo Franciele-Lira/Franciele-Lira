@@ -34,13 +34,7 @@
 
 ## ✨ Constant Learner✨
 
-<br>
 
-![Franciele GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=tokyonight)
-
-<br>
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
 
 
 
