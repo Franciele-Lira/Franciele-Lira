@@ -40,7 +40,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)](https://github.com/Franciele-Lira/github-readme-stats)
 
 
 
