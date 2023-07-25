@@ -1,13 +1,14 @@
 ## Hi! I'm Franciele Lira. 
 ### Written in english
 
- 💡 Dev iniciante. 
+ 💡 Dev em formação. 
 
  💡 4° semestre de Engenharia de Software. 🧑‍🎓
 
  💡 On the way to being fluent in English
 
  <br>
+
 
 ## Contact 
 
@@ -31,9 +32,17 @@
    <img align="center" alt ="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
+
+
 <br>
 
 ## ✨ Constant Learner✨
+
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=pie)](https://github.com/Franciele-Lira/github-readme-stats)
 
 
 
