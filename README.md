@@ -1,5 +1,8 @@
-## Hi! I'm Franciele Lira. 
+### Hi! I'm Franciele Lira. 
 ### Written in english
+
+
+## ✨ Constant Learner✨
 
  💡 Dev em formação. 
 
@@ -32,11 +35,6 @@
    <img align="center" alt ="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
-
-
-<br>
-
-## ✨ Constant Learner✨
 
 
 
