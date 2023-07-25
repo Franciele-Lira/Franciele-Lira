@@ -38,8 +38,6 @@
 
 ## ✨ Constant Learner✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&hide_progress=true)
-
 
 
 
