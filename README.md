@@ -1,11 +1,6 @@
 ## Hi! I'm Franciele Lira. 
 
 ### Written in english
-
-<br>
-
-### ✨ Constant Learner✨
-
 <br>
 
  💡 Dev em formação. 
@@ -39,5 +34,8 @@
    <img align="center" alt ="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
+<br>
+### ✨ Constant Learner✨
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)
