@@ -38,3 +38,6 @@
    <img align="center" alt ="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt ="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact)
