@@ -26,7 +26,7 @@ No meu dia a dia profissional, minha principal linguagem de programação é o J
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=francielelira48@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[francielelira48@gmail.com](https://mail.google.com/mail/u/0/#inbox)" /></a>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/franciele-lira/)" /></a>
 
   
