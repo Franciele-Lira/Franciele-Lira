@@ -1,4 +1,4 @@
-## Hi! I'm Franciele Lira. Seja bem-vind@ ao meu perfil. 
+## Hi! I'm Franciele Lira. 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5tqPKcgceDR9pRDr7dXwcX7SQ_RGjhMe8Q&usqp=CAU" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
