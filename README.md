@@ -10,10 +10,9 @@
 
 
 <p align="left"> 
- Apaixonada por tecnologia desde criança.. 
-Atualmente, sou Estudante do 4º semestre de Engenharia de Software, com experiência inicial em programação em JavaScript, CSS e HTML. Ocupo profissionalmente a posição de estagiária. 
+Atualmente, sou Estudante do 4º semestre de Engenharia de Software, com experiência inicial em programação em JavaScript, CSS e HTML. Estou profissionalmente na posição de estagiária. 
 
-No meu dia a dia profissional, minha principal linguagem de programação é o Java, e trabalho com bancos de dados regularmente. Além disso, utilizo ferramentas de controle de versionamento de código, como Git e RTC (Rational Team Concert).
+No meu dia a dia profissional, a principal linguagem de programação é o Java, e trabalhamos com bancos de dados regularmente. Além disso, utilizamos ferramentas de controle de versionamento de código, como Git e RTC (Rational Team Concert).
 </p>
 
 
