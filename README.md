@@ -1,6 +1,6 @@
 ## Oi, Eu sou a Franciele Lira!
 
-###  Carreira em construção!
+###  ⚠️Carreira em construção!⚠️
 
 <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
