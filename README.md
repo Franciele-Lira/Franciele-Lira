@@ -1,59 +1,45 @@
-## Oi, Eu sou a Franciele Lira!
+# Bem-vindo(a)! 👋⭐️
 
-###  ⚠️Carreira em construção!⚠️
-
-<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-
-### ⭐<strong> Sobre mim  </strong>
-
-
-<p align="left"> 
-Atualmente, sou Estudante do 6º semestre de Engenharia de Software, com experiência inicial em programação em JavaScript, CSS e HTML. Estou profissionalmente na posição de estagiária. 
-
-No meu dia a dia profissional, a principal linguagem de programação é o Java e também é usado banco de dados regularmente. Além disso, utilizamos ferramentas de controle de versionamento de código, como Git e RTC (Rational Team Concert).
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="600px">
 </p>
 
 
+# 🚀 Sobre Mim
 
-<p align="left">
- ⭐<strong> Habilidades </strong>: <div style="display: inline_block"><br/>
+Olá! Eu sou Franciele Lira, desenvolvedora apaixonada por tecnologia e inovação. Atualmente, sou estudante do 6º semestre de Engenharia de Software, com experiência inicial em programação em JavaScript, CSS e HTML. Estou profissionalmente na posição de estagiária.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-##
-  
-⭐ <strong> DevOps </strong>
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-##
-
-⭐Ferramentas de desenvolvimento
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-## 
-
-<p align="left">
-⭐ <strong>Conecte-se comigo</strong> ⤵️
+No meu dia a dia profissional, trabalho com análise de dados. A principal linguagem de programação que utilizo é Java e também uso banco de dados regularmente. Além disso, utilizamos ferramentas de controle de versionamento de código, como GitLab e RTC (Rational Team Concert).
 </p>
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/francielelira48/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/franciele-lira/)
+- 🌱 Atualmente estou aprendendo **[API REST, AWS, Spring Boot ]**
+- 👯 Procuro colaborar em **projetos de código aberto**
+- 📫 Como me encontrar: [Email](Francielelira22@gmail.com)
+- ⚡ Fato curioso: **Adoro resolver quebra-cabeças complexos e enigmas lógicos no meu tempo livre.**
 
-##
+## 💻 Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-### ⭐ Gráfico
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-java-2496ED?style=flat&logo=java&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Franciele-Lira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+## 📊 Estatísticas do GitHub
+
+![Suas estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Franciele-Lira&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-Lira&layout=compact&theme=radical)
+
+## 📫 Contato
+Sinta-se à vontade para me contatar por qualquer um dos meios abaixo:
+
+- [LinkedIn](https://www.linkedin.com/in/franciele-lira)
+- [Instagram](https://instagram.com/lira_euu)
+- [DIO](https://web.dio.me/users/francielelira48/)
+
+---
+
+⭐️ Deixe uma estrela nos repositórios que você gostar!
 
